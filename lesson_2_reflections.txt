@@ -7,3 +7,8 @@ Necessary to create the empty repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is no directory it only contains a list of new files for the next commit. It helps to organize the files that should be tracked in the next commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Track the files you want to commit in the staging area using git add. Only those are committed.
