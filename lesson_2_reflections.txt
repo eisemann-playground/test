@@ -12,3 +12,18 @@ The staging area is no directory it only contains a list of new files for the ne
 How can you use the staging area to make sure you have one commit per logical change?
 
 Track the files you want to commit in the staging area using git add. Only those are committed.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Would be helpful for bigger changes, or when I want to test something out before commiting it to the master branch.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagram creates a tree which shows the reachability from each leaf to the previous versions.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes of both branches will appear in the latest version. One has now access to the histories of both branches.
