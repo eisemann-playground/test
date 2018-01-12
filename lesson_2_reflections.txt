@@ -27,3 +27,8 @@ The diagram creates a tree which shows the reachability from each leaf to the pr
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes of both branches will appear in the latest version. One has now access to the histories of both branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Bigger changes can be incorporated more easily. Most of the time git is right. Saves time and effort.
