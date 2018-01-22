@@ -6,3 +6,11 @@ E.g. if I want to collaborate with others, if I want to have an external backup,
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Someone else might push into the remote repository and my code might get broken due to this.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork creates a new repository from an existing one. Good if you are not the owner or collaborator of the original repository.
+Cloning is useful if a repository exists and I want to contribute to this repository.
+A branch is useful within an exisiting repository if I want to test things out, or want to conduct bigger changes within a project before merging it back.
+
